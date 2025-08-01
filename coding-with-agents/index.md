@@ -14,7 +14,7 @@ npm install -g @anthropic-ai/claude-code
 $ claude
 ```
 
-![h:400](https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/6864241da4558d5944f54659_bbd870ca51f9d16bc7bdb242279a5bef_ides.webp)
+![h:600](https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/6864241da4558d5944f54659_bbd870ca51f9d16bc7bdb242279a5bef_ides.webp)
 
 ---
 
@@ -22,7 +22,7 @@ $ claude
 
 https://conductor.build/ - UI for Mac, allows running multiple Claude Code instances
 
-![h:400](https://framerusercontent.com/images/nnszVdT66ZKIJVgGLXlv32E21hQ.png?scale-down-to=4096&lossless=1)
+![h:600](https://framerusercontent.com/images/nnszVdT66ZKIJVgGLXlv32E21hQ.png?scale-down-to=4096&lossless=1)
 
 ---
 
