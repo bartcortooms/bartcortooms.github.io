@@ -153,7 +153,7 @@ docs/implementation-plan/
 - CLAUDE.md
 - Commands
 - MCP
-- Sub-agents
+- Subagents
 
 ---
 
@@ -249,14 +249,14 @@ Or you can invoke the tool more explicitly (any format works):
 
 ---
 
-# Sub-agents
+# Subagents
 
 - Specialized agents which don't share the context with the "main" agent
 - Focused on a single role
 
 ---
 
-# Sub-agents
+# Subagents
 
 Use: `/agents`, which will guide you on how to set one up.
 
@@ -264,7 +264,7 @@ Use: `/agents`, which will guide you on how to set one up.
 
 ---
 
-# Sub-agents
+# Subagents
 
 ```
 > Use the review-changes agent to review your changes
@@ -617,7 +617,7 @@ Spawn multiple agents for:
 
 ---
 
-# Using specialized sub-agents
+# Using specialized subagents
 
 - **thbce-spec-verifier**: Check spec compliance
 - **engineering-guidelines-reviewer**: Verify code quality
