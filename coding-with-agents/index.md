@@ -297,6 +297,10 @@ npx @mariozechner/claude-trace --include-all-requests
 
 ---
 
+# Implementing a large project
+
+---
+
 # RE2020
 
 France's environmental regulation for **new buildings**, aiming to:
