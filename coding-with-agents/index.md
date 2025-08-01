@@ -194,7 +194,7 @@ NEVER change any files in this directory.
 If you find yourself giving the same prompt over and over, use a command:
 
 ```
-$ cat .claude/command/commit.md
+$ cat .claude/commands/commit.md
 
 Commit and push your changes using a descriptive message.
 ```
