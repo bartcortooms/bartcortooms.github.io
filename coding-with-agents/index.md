@@ -485,6 +485,10 @@ Implementation:
 
 ---
 
+## Reflection
+
+Use the reflection docs for later analysis
+
 > Take a look at all reflection documents under docs/implementation-plan/milestone-1/reflection-docs and think of ways we could have prevented the issues that are mentioned there. Order the improvements by **priority**, and create a **plan** to implement them.
 
 ---
