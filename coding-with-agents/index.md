@@ -648,6 +648,8 @@ If both found no violations, then commit changes with descriptive messages. Othe
 - Document its learnings
 - Make it think about how to make agents success
 
+---
+
 # What Makes Agents Fail
 
 - Hidden knowledge not at point of use
