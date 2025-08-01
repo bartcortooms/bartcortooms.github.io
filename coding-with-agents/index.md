@@ -311,7 +311,7 @@ France's environmental regulation for **new buildings**, aiming to:
 
 ---
 
-* ## I don't know any TypeScript
+- ## I don't know any TypeScript
 * ## I don't know anything about RE2020
 
 ---
