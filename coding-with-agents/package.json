@@ -1,0 +1,13 @@
+{
+  "name": "coding-with-agents-slides",
+  "version": "1.0.0",
+  "description": "Marpit slides for coding with agents presentation",
+  "scripts": {
+    "build": "marp index.md -o index.html",
+    "watch": "marp index.md -o index.html --watch",
+    "pdf": "marp index.md -o slides.pdf"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}

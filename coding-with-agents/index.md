@@ -194,7 +194,7 @@ NEVER change any files in this directory.
 If you find yourself giving the same prompt over and over, use a command:
 
 ```
-$ cat .claude/commit.md
+$ cat .claude/command/commit.md
 
 Commit and push your changes using a descriptive message.
 ```
@@ -592,12 +592,6 @@ Spawn multiple agents for:
 - **Pre-commit hooks** that block errors
 - **One-command validation**
 
-
----
-
----
-
-# Using commands
 ---
 
 # Using commands
@@ -640,26 +634,6 @@ If both found no violations, then commit changes with descriptive messages. Othe
 
 ---
 
-using MCP
-
-every MCP service creates one or more tools
-
----
-
-llamacloud -> indexes PDF -> creates embeddings
-
----
-
----
-
-# Key Learnings
-
-**Correctness > Green Tests**
-
-Tests verify correctness, not the reverse
-
----
-
 # Leverage the Agent to improve itself
 
 - Have it reflect on its implementation
@@ -672,11 +646,3 @@ Tests verify correctness, not the reverse
 - Silent problems that compile
 - Optional steps (will be skipped)
 - Undiscoverable tools
-
----
-
-# Conclusion
-
-**AI coding agents can build complex systems**
-
-...with the right structure, validation, and feedback loops
